@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Zero Sum Consecutive Nodes from Linked List", "Remove Zero Sum Consecutive Nodes from Linked List\Remove Zero Sum Consecutive Nodes from Linked List.csproj", "{49A605B5-CDFF-4B16-B7A8-51B8A12C46D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{42D87BB3-F457-4702-8589-6BAB9CEC1461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Substring Without Repeating Characters", "Longest Substring Without Repeating Characters\Longest Substring Without Repeating Characters.csproj", "{AA471680-E526-47BD-B131-1329A906B64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{13EDD6E4-2DB3-44C3-9912-1FCE4F7D1C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A605B5-CDFF-4B16-B7A8-51B8A12C46D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A605B5-CDFF-4B16-B7A8-51B8A12C46D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A605B5-CDFF-4B16-B7A8-51B8A12C46D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A605B5-CDFF-4B16-B7A8-51B8A12C46D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D87BB3-F457-4702-8589-6BAB9CEC1461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D87BB3-F457-4702-8589-6BAB9CEC1461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D87BB3-F457-4702-8589-6BAB9CEC1461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D87BB3-F457-4702-8589-6BAB9CEC1461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA471680-E526-47BD-B131-1329A906B64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA471680-E526-47BD-B131-1329A906B64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA471680-E526-47BD-B131-1329A906B64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA471680-E526-47BD-B131-1329A906B64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EDD6E4-2DB3-44C3-9912-1FCE4F7D1C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EDD6E4-2DB3-44C3-9912-1FCE4F7D1C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EDD6E4-2DB3-44C3-9912-1FCE4F7D1C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EDD6E4-2DB3-44C3-9912-1FCE4F7D1C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {587CB7C1-06F9-4A78-A3E4-CDD9C0FA1445}
+	EndGlobalSection
+EndGlobal
